@@ -1,10 +1,10 @@
 #!/bin/bash
 
-
 SG_ID="sg-0acabaec039aacc53"
 AMI_ID="ami-0220d79f3f480ecf5"
 ZONE_ID="Z0112323324Q9P5IYXBVY"
 DOMAIN_NAME="hkhinfoxyg.xyz"
+
 
 for instance in $@
 do
